@@ -1,5 +1,6 @@
 # Dirty-Gancing
-This repository contains the code and models for the Dirty GANcing Visium workshop at AMLD 2020.
+This repository contains the code and models for the Dirty GANcing Visium workshop at AMLD 2020. I just try to compile it in Mac.
+So heavily borrow the original ubuntu version.
 
 ## Workshop setup
 
