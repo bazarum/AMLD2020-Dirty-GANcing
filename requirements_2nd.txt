@@ -8,6 +8,6 @@ Pillow
 scikit-image
 scipy
 tensorflow
-torch
-torchvision
+# torch
+# torchvision
 tqdm

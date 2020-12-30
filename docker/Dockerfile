@@ -38,5 +38,5 @@ RUN git clone https://github.com/bazarum/MacDirty-GANcing.git /pose2vid
 WORKDIR /pose2vid
 
 
-RUN pip3 install -r requirements_1st.txt
-RUN pip3 install -r requirements_2nd.txt
+# JT RUN pip3 install -r requirements_1st.txt
+# JT RUN pip3 install -r requirements_2nd.txt
